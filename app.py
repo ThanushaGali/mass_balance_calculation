@@ -28,7 +28,7 @@ st.caption(
 # -------------------------------------------------
 # Sample data option
 # -------------------------------------------------
-use_sample = st.checkbox("👁️ Preview using sample dataset")
+use_sample = st.checkbox("use sample dataset")
 
 raw_df = None
 
